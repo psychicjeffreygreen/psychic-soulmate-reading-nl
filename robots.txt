@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /go/
+
+Sitemap: https://nl.psychic-soulmate-reading.com/sitemap.xml
